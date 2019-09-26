@@ -1,0 +1,35 @@
+{
+  "name": "GenioLite",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.4.1",
+    "react-native": "^0.56.0",
+    "react-native-audio": "^4.3.0",
+    "react-native-background-fetch": "^2.0.8",
+    "react-native-background-job": "^2.2.0",
+    "react-native-device-info": "^0.22.5",
+    "react-native-elements": "^0.19.1",
+    "react-native-fcm": "^16.0.0",
+    "react-native-fs": "^2.13.3",
+    "react-native-material-textfield": "^0.12.0",
+    "react-native-md5": "^1.0.0",
+    "react-native-vector-icons": "^4.6.0",
+    "react-native-webview-android-file-upload": "git+https://git@github.com/andreipfeiffer/react-native-webview-android-file-upload.git",
+    "react-navigation": "^2.8.0",
+    "rn-fetch-blob": "^0.10.15"
+  },
+  "devDependencies": {
+    "babel-jest": "23.4.0",
+    "babel-preset-react-native": "5.0.2",
+    "jest": "23.4.1",
+    "react-test-renderer": "16.4.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

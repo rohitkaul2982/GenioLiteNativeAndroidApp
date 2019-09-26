@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "654146069632",
+    "firebase_url": "https://rngenioliteandroid.firebaseio.com",
+    "project_id": "rngenioliteandroid",
+    "storage_bucket": "rngenioliteandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654146069632:android:554f80f5d13b5abf",
+        "android_client_info": {
+          "package_name": "com.geniolite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654146069632-vtrddcr1r63l1grhhapu26llt2q6lg5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRkJKfjERzXwCJvrFJSQm2N7Ps5tO-1iA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
